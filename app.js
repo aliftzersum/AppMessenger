@@ -137,3 +137,5 @@ int main() {
 # PR Merge: 2025-10-15 - feature/merge-5895
 
 # PR Merge: 2025-10-15 - feature/merge-8092
+
+# PR Merge: 2025-10-15 - fix/merge-4499
